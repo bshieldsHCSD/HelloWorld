@@ -1,5 +1,6 @@
 ﻿#I am makign a change to this file
-
+print ('I have no idea what this program does')
+lastName = input('What is your last name')
 #Sometimes you have to declair your variable to help intellisense
 myName = "" 
 #Collect Data from the user
